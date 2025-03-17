@@ -20,7 +20,5 @@ Repositories here are configured to work with **Jira Automation**, ensuring:
 - Seamless task transitions  
 - Workflow automation based on GitHub actions  
 
-## Getting Started  
-1. Clone any repository you are working on:  
-   ```bash
-   git clone https://github.com/jiraops/<repository-name>.git
+## Credit  
+This organization belongs to [votranphi](https://github.com/votranphi) and contains only the owner's repositories.
